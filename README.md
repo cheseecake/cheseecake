@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=crystalyaw&color=ffd3d9&style=for-the-badge" alt="profile views">
 </p>
->nanti aku redesign aku males pliss
+nanti aku redesign aku males pliss
 
 </code></pre>
 <p align="left">
