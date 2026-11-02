@@ -26,10 +26,10 @@ lets be friend pls( ˘ω˘ )
 
 <p align="center">
 <a href="https://github.com/cheseecake">
-<img src="https://img.shields.io/badge/GitHub-cheseecake-eba2b2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-eba2b2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord--f2bec5?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+<img src="https://img.shields.io/badge/Discord-f2bec5?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <a href="https://instagram.com">
 <img src="https://img.shields.io/badge/Instagram-eba2b2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
