@@ -1,50 +1,50 @@
-&lt;div align=&quot;center&quot;&gt;
+<div align="center">
 
-  &lt;img src=&quot;./✿%20banner.jpg&quot; alt=&quot;banner&quot; width=&quot;100%&quot; /&gt;
+<img src="./✿%20banner.jpg" alt="banner" width="100%" />
 
-  &lt;br /&gt;&lt;br /&gt;
+<br /><br />
 
-  &lt;h3&gt;💮 𝚗𝚊𝚍𝚌𝚑𝚊𝚗`s github page ✿&lt;/h3&gt;
+<h3>💮 𝚗𝚊𝚍𝚌𝚑𝚊𝚗`s github page ✿</h3>
 
-  &lt;p align=&quot;center&quot;&gt;
-    cuma coding kalo&#39;gabut.&lt;br /&gt;
-  &lt;/p&gt;
+<p align="center">
+cuma coding kalo'gabut.<br />
+</p>
 
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://komarev.com/ghpvc/?username=cheseecake&amp;label=views&amp;color=eba2b2&amp;style=flat-square&quot; alt=&quot;views&quot; /&gt;
-  &lt;/p&gt;
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=cheseecake&label=views&color=eba2b2&style=flat-square" alt="views" />
+</p>
 
-  &lt;br /&gt;
+<br />
 
-  &lt;h4&gt;✿ 𝚜𝚝𝚊𝚌𝚔 ✿&lt;/h4&gt;
+<h4>✿ 𝚜𝚝𝚊𝚌𝚔 ✿</h4>
 
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/Python-eba2b2?style=for-the-badge&amp;logo=python&amp;logoColor=white&quot; alt=&quot;Python&quot; /&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/JavaScript-eba2b2?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&quot; alt=&quot;JavaScript&quot; /&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/Node.js-eba2b2?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white&quot; alt=&quot;Node.js&quot; /&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/Rust-eba2b2?style=for-the-badge&amp;logo=rust&amp;logoColor=white&quot; alt=&quot;Rust&quot; /&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/C++-f2bec5?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white&quot; alt=&quot;C++&quot; /&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/Git-f2bec5?style=for-the-badge&amp;logo=git&amp;logoColor=white&quot; alt=&quot;Git&quot; /&gt;
-    &lt;img src=&quot;https://img.shields.io/badge/VS_Code-f2bec5?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white&quot; alt=&quot;VS Code&quot; /&gt;
-  &lt;/p&gt;
+<p align="center">
+<img src="https://img.shields.io/badge/Python-eba2b2?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-eba2b2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Node.js-eba2b2?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Rust-eba2b2?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/C++-f2bec5?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Git-f2bec5?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/VS_Code-f2bec5?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 
-  &lt;br /&gt;
+<br />
 
-  &lt;h4&gt;✿ 𝚜𝚝𝚊𝚝𝚜 ✿&lt;/h4&gt;
+<h4>✿ 𝚜𝚝𝚊𝚝𝚜 ✿</h4>
 
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://github-stats-extended.vercel.app/api?username=cheseecake&amp;show_icons=true&amp;bg_color=fff3f1&amp;title_color=d9778e&amp;text_color=6e4f56&amp;icon_color=eba2b2&amp;border_color=f2bec5&amp;hide_border=false&quot; alt=&quot;stats&quot; height=&quot;160&quot; /&gt;
-    &lt;img src=&quot;https://github-stats-extended.vercel.app/api/top-langs/?username=cheseecake&amp;layout=compact&amp;bg_color=fff3f1&amp;title_color=d9778e&amp;text_color=6e4f56&amp;border_color=f2bec5&amp;hide_border=false&quot; alt=&quot;top langs&quot; height=&quot;160&quot; /&gt;
-  &lt;/p&gt;
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=cheseecake&show_icons=true&bg_color=fff3f1&title_color=d9778e&text_color=6e4f56&icon_color=eba2b2&border_color=f2bec5&hide_border=false" alt="stats" height="160" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cheseecake&layout=compact&bg_color=fff3f1&title_color=d9778e&text_color=6e4f56&border_color=f2bec5&hide_border=false" alt="top langs" height="160" />
+</p>
 
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;img src=&quot;https://count.getloli.com/@cheseecake?name=cheseecake&amp;theme=moebooru&amp;padding=7&amp;offset=0&amp;align=top&amp;scale=1&amp;pixelated=1&amp;darkmode=auto&quot; alt=&quot;counter&quot; /&gt;
-  &lt;/p&gt;
+<p align="center">
+<img src="https://count.getloli.com/@cheseecake?name=cheseecake&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="counter" />
+</p>
 
-  &lt;br /&gt;
+<br />
 
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;sub&gt;--------~✧*.✿.*✧~--------&lt;/sub&gt;
-  &lt;/p&gt;
+<p align="center">
+<sub>--------~✧*.✿.*✧~--------</sub>
+</p>
 
-&lt;/div&gt;
+</div>
