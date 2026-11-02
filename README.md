@@ -32,10 +32,10 @@ lets be friend pls( ˘ω˘ )
 <img src="https://img.shields.io/badge/Discord--f2bec5?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <a href="https://instagram.com">
-<img src="https://img.shields.io/badge/Instagram-@-eba2b2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<img src="https://img.shields.io/badge/Instagram-eba2b2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://open.spotify.com">
-<img src="https://img.shields.io/badge/Spotify-Playlist-f2bec5?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+<a href="https://www.tiktok.com/@mxtchaiiy">
+<img src="https://img.shields.io/badge/Tiktok-f2bec5?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok" />
 </a>
 </p>
 
