@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./✿%20banner.jpg" alt="banner" width="100%" />
+<img src="https://raw.githubusercontent.com/cheseecake/cheseecake/refs/heads/main/assets/banner.png" alt="banner" width="100%" />
 
 <br /><br />
 
