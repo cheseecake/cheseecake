@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/cheseecake/cheseecake/refs/heads/main/assets/banner.png" alt="banner" width="850" />
 
-<h2>💮 𝚗𝚊𝚍𝚌𝚑𝚊𝚗'𝚜 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚊𝚐𝚎 ✿</h2>
+<h2>💮 𝚗𝚊𝚍𝚌𝚑𝚊𝚗'𝚜 readme 𝚙𝚊𝚐𝚎 ✿</h2>
 
 <p align="center">
 <i>hayyiee!</i><br />
