@@ -29,10 +29,10 @@ lets be friend pls( ˘ω˘ )
 <img src="https://img.shields.io/badge/GitHub-cheseecake-eba2b2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-nadchan-f2bec5?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+<img src="https://img.shields.io/badge/Discord--f2bec5?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <a href="https://instagram.com">
-<img src="https://img.shields.io/badge/Instagram-@cheseecake-eba2b2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<img src="https://img.shields.io/badge/Instagram-@-eba2b2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://open.spotify.com">
 <img src="https://img.shields.io/badge/Spotify-Playlist-f2bec5?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
@@ -66,12 +66,12 @@ my stats:3
 </p>
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=cheseecake&show_icons=true&bg_color=fff3f1&title_color=d9778e&text_color=6e4f56&icon_color=eba2b2&border_color=f2bec5&hide_border=false" alt="stats" width="49%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cheseecake&layout=compact&bg_color=fff3f1&title_color=d9778e&text_color=6e4f56&border_color=f2bec5&hide_border=false" alt="top langs" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=cheseecake&show_icons=true&bg_color=fff3f1&title_color=d9778e&text_color=6e4f56&icon_color=eba2b2&border_color=f2bec5&hide_border=false" alt="stats" height="195" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cheseecake&layout=compact&langs_count=6&bg_color=fff3f1&title_color=d9778e&text_color=6e4f56&border_color=f2bec5&hide_border=false" alt="top langs" height="195" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=cheseecake&background=FFF3F1&border=F2BEC5&stroke=F2BEC5&ring=EBA2B2&fire=D9778E&currStreakNum=6E4F56&sideNums=6E4F56&currStreakLabel=D9778E&sideLabels=6E4F56&dates=9E7B82" alt="streak" width="65%" />
+<img src="https://streak-stats.demolab.com?user=cheseecake&background=FFF3F1&border=F2BEC5&stroke=F2BEC5&ring=EBA2B2&fire=D9778E&currStreakNum=6E4F56&sideNums=6E4F56&currStreakLabel=D9778E&sideLabels=6E4F56&dates=9E7B82" alt="streak" height="195" />
 </p>
 
 <hr />
