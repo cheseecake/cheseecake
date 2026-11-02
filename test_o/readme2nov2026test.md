@@ -7,7 +7,7 @@
 <h3>💮 𝚗𝚊𝚍𝚌𝚑𝚊𝚗`s github page ✿</h3>
 
 <p align="center">
-cuma coding kalo'gabut.<br />
+gada apa apa disini.<br />
 </p>
 
 <p align="center">
