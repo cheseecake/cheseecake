@@ -25,7 +25,7 @@ gada apa apa disini.<br />
 <img src="https://img.shields.io/badge/Rust-eba2b2?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 <img src="https://img.shields.io/badge/C++-f2bec5?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Git-f2bec5?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/VS_Code-f2bec5?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/VS_Code-f2bec5?style=for-the-badge&logo=golang&logoColor=white" alt="golang" />
 </p>
 
 <br />
