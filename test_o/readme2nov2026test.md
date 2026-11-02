@@ -14,7 +14,7 @@ gada apa apa disini.<br />
 <img src="https://komarev.com/ghpvc/?username=cheseecake&label=views&color=eba2b2&style=flat-square" alt="views" />
 </p>
 
-<br />
+<br /> 
 
 <h4>✿ 𝚜𝚝𝚊𝚌𝚔 ✿</h4>
 
