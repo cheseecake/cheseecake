@@ -20,7 +20,7 @@ when not coding, probably gaming, listening to music, or sleeping. ( ˘ω˘ )
 
 <h3>✿ 𝚜𝚘𝚌𝚒𝚊𝚕𝚜 & 𝚕𝚒𝚗𝚔𝚜 ✿</h3>
 
-<p align="center">
+<p align="center"> 
 lets be friend pls(˶>⩊<˶)
 </p>
 
