@@ -56,8 +56,8 @@ languages and tools i regularly play around with:
 <img src="https://img.shields.io/badge/Git-f2bec5?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/golang-f2bec5?style=for-the-badge&logo=go&logoColor=white" alt="golang" />
 </p>
-
-<hr />
+<p align="center">
+most of my projects are private<hr />
 
 <h3>✿ 𝚜𝚝𝚊𝚝𝚜 & 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢 ✿</h3>
 
