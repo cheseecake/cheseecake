@@ -59,7 +59,7 @@ languages and tools i regularly play around with:
 
 <hr />
 
-<h3>✿ 𝚜𝚝𝚊𝚝𝚜 & 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢 ✿</h3>    
+<h3>✿ 𝚜𝚝𝚊𝚝𝚜 & 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢 ✿</h3>     
 
 <p align="center">
 my stats:3
